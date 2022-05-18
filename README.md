@@ -6,4 +6,4 @@
 - animations (framer-motion);
 
 ### Live:
-`https://eugene0408.github.io/Todo-ReactRedux`
+<pre>https://eugene0408.github.io/Todo-ReactRedux</pre>
