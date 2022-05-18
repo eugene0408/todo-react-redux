@@ -5,5 +5,4 @@
 - save data to local storage (redux-persist);
 - animations (framer-motion);
 
-### Live:
-<pre>https://eugene0408.github.io/Todo-ReactRedux</pre>
+#### Live: https://eugene0408.github.io/Todo-ReactRedux
