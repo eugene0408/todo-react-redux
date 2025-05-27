@@ -25,6 +25,7 @@ git clone https://github.com/eugene0408/todo-react-redux.git
 cd todo-react-redux
 npm install
 npm start
+```
 
 🧠 Note
 
