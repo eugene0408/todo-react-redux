@@ -2,7 +2,7 @@
 
 A simple and responsive Todo List built with **React**, **Redux Toolkit**, and **Framer Motion**.
 
-## ✨ Features
+## Features
 
 - Add and delete tasks
 - Filter tasks by completion status (all / completed / active)
@@ -10,7 +10,7 @@ A simple and responsive Todo List built with **React**, **Redux Toolkit**, and *
 - Smooth UI animations with **Framer Motion**
 - Scalable state management with **Redux Toolkit**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [React](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -18,7 +18,7 @@ A simple and responsive Todo List built with **React**, **Redux Toolkit**, and *
 - [Framer Motion](https://www.framer.com/motion/)
 - [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/eugene0408/todo-react-redux.git
@@ -27,6 +27,6 @@ npm install
 npm start
 ```
 
-## 📌 Note
+## Note
 
 This project was built as part of my portfolio to demonstrate a modern React stack with persistent state, animations, and clean architecture.
