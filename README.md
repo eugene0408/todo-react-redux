@@ -26,3 +26,6 @@ cd todo-react-redux
 npm install
 npm start
 
+🧠 Note
+
+This project was built as part of my portfolio to demonstrate a modern React stack with persistent state, animations, and clean architecture.
