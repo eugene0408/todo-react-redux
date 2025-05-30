@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Todo-ReactRedux/static/css/main.99a5b755.css",
-    "main.js": "/Todo-ReactRedux/static/js/main.54543054.js",
-    "static/media/trash.svg": "/Todo-ReactRedux/static/media/trash.caf49d7a36eee92a18242ce92aaee2b0.svg",
-    "index.html": "/Todo-ReactRedux/index.html",
-    "static/media/check.svg": "/Todo-ReactRedux/static/media/check.ae71ed2ee392d162c82f7b0011328c8a.svg",
-    "static/media/plus.svg": "/Todo-ReactRedux/static/media/plus.17c2b47d80881ebd0f8dbcd27e023928.svg",
-    "static/media/cross.svg": "/Todo-ReactRedux/static/media/cross.94fbe026602fc7e63255b5c1ea9748ba.svg",
-    "main.99a5b755.css.map": "/Todo-ReactRedux/static/css/main.99a5b755.css.map",
-    "main.54543054.js.map": "/Todo-ReactRedux/static/js/main.54543054.js.map"
+    "main.css": "/todo-react-redux/static/css/main.99a5b755.css",
+    "main.js": "/todo-react-redux/static/js/main.b26d1da9.js",
+    "static/media/trash.svg": "/todo-react-redux/static/media/trash.caf49d7a36eee92a18242ce92aaee2b0.svg",
+    "index.html": "/todo-react-redux/index.html",
+    "static/media/check.svg": "/todo-react-redux/static/media/check.ae71ed2ee392d162c82f7b0011328c8a.svg",
+    "static/media/plus.svg": "/todo-react-redux/static/media/plus.17c2b47d80881ebd0f8dbcd27e023928.svg",
+    "static/media/cross.svg": "/todo-react-redux/static/media/cross.94fbe026602fc7e63255b5c1ea9748ba.svg",
+    "main.99a5b755.css.map": "/todo-react-redux/static/css/main.99a5b755.css.map",
+    "main.b26d1da9.js.map": "/todo-react-redux/static/js/main.b26d1da9.js.map"
   },
   "entrypoints": [
     "static/css/main.99a5b755.css",
-    "static/js/main.54543054.js"
+    "static/js/main.b26d1da9.js"
   ]
 }
